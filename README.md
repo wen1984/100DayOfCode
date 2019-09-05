@@ -1,5 +1,5 @@
 # 100DayOfCode
-### 2R1Day
+### 2R1Day 1 September 2019
 > I am going back to a new start:smile:
 >
 #### Today practice web and restart to learn JavaScript.
