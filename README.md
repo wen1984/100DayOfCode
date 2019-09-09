@@ -33,3 +33,33 @@
 > Go back to freecodecamp continue to finish all classes.
 When I watching a YouTube tutorial, what is Vanilla JS? but es6 same with vanilla JS? I search for it any knowledge like this example is explained well:smiley_cat:
 > [What is VanillsJS?](https://stackoverflow.com/questions/20435653/what-is-vanillajs)
+
+==========================
+### 2R5Day 5 September 2019
+> Read any Javascript article and practice es6 this evening, console really has help for me.
+>
+> This is great Javascript to a lot of examples let me know, but a bit don't understand:sweat_smile:
+>
+> [ES6 for Everyone](https://cloudup.com/cT3sEL-omAB)
+
+==========================
+### 2R6Day 6 September 2019
+> Practice simple es6, and watching the second JavaScript.
+> <pre><code>Document.text( You can do yourself Good!)</code></pre>:wink:
+> But I didn't learn more and my headache not comfortable this evening.
+
+==========================
+### 2R7Day 7 September 2019
+> I and my mom to go to eat lunch together, that was a company having lunch gatherings today, lunch finish after going to IKEA buy need life thing.
+>
+> only get a bit time to learn es6 and watching Tutorial practice.
+> <pre><code>console.log(document.all);</code></pre>
+
+==========================
+### 2R8Day 8 September 2019
+> Didn't practice today!!
+>
+> <pre><code>Function tomorrow () {
+>    console.log("Remember to practice");
+> }
+> tomorrow();</code></pre>
