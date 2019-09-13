@@ -63,3 +63,44 @@ When I watching a YouTube tutorial, what is Vanilla JS? but es6 same with vanill
 >    console.log("Remember to practice");
 > }
 > tomorrow();</code></pre>
+
+==========================
+### 2R9Day 9 September 2019
+> <pre><code>var titles = document.querySelectorAll('.title');
+> console.log(titles);
+> titles.textContent = 'Tomorrow';
+> titles.textContent = 'Continue';</code></pre>
+
+==========================
+### 2R10Day 10 September 2019
+> Watching YouTube and Practice learning DOM this evening, I will continue to learn about DOM tomorrow night.
+>
+> ![Item](https://pbs.twimg.com/media/EEHVCXwUcAgGLry?format=jpg&name=small)
+
+==========================
+### 2R11Day 11 September 2019
+> I didn't practice JavaScript, my eye not uncomfortable, need rest, only read JavaScript Book.
+>> Question about Boolean:
+> <pre><code>const n = 0; //falsy
+> const b1 = !!n; //fales
+> const b2 = Boolean(n); //fales</code></pre>
+>
+> Why falsy and fales what different?:open_mouth::question:
+
+==========================
+### 2R12Day 12 September 2019
+> But learn a bit Javascript, why watching the tutorial tries to enter, only in the console display like this.
+>
+> ![button](https://pbs.twimg.com/media/EEVVeNsUwAEa4S0?format=jpg&name=small)
+> ![dom](https://pbs.twimg.com/media/EEVVeNpUUAACpyw?format=jpg&name=4096x4096)
+>
+> That is input:
+> <pre><code>function buttonClick() {
+> console.log('Button clicked');
+> }</code></pre>
+>
+> It can't in the console to display.
+>> Just add below:point_down: like this:
+> <pre><code>console.log('Button clicked');</code></pre>
+>
+> It can display these results.:open_mouth:
