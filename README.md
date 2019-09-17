@@ -104,3 +104,49 @@ When I watching a YouTube tutorial, what is Vanilla JS? but es6 same with vanill
 > <pre><code>console.log('Button clicked');</code></pre>
 >
 > It can display these results.:open_mouth:
+
+==========================
+### 2R13Day 13 September 2019
+> Practice ”table” and about ”buttonClick” question is my wrong,So from head to begin start, Read JavaScript book and practice open console know what results.
+> <pre><code>let x = 3;
+> const r1 = x++ + x++;</code></pre>
+>
+> This is me can parctice ane let me understand.:smile:
+> [Expressions and operators-MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+
+===========================
+### 2R14Day 14 September 2019
+> Continue practice JavaScript, I see a website teach basic explain example formula know why to write.
+>
+> Like variable Type:
+> [var type  var name = var value]
+> All var defined in the JS, all use ”const” and ”let”.
+>>
+> JS formula:
+> <pre><code>const obj = new obj();
+> console.log("see an orange");
+> const isOrangeMuature = true;
+> if(isOrangeMuature == true) {
+>     console.log("Pick up");
+> }</code></pre>
+
+===========================
+### 2R15Day 15 September 2019
+> Repeat! Repeat! Repeat!
+Still, modify and fumble everything, a web page not finish, but I think how to add a background simple music?🤔
+
+===========================
+### 2R16Day 16 September 2019
+> Finally, finish a web page, but didn't add background simple music last, I try to write JS how to make it can scroll, I think it didn't work or have work? 🤔
+>
+> [music practice web page](https://twitter.com/i/status/1173637870453587968)
+>
+> Practice a bit es6, like ”this” it is a global environment, Method in the object, if a function is put in the object, ”this” means the object itself.
+>
+> <pre><code>const objWithThis = {
+>      name: 'GoodNight',
+>      log: function() {
+>           console.log(this);
+>   }
+> }
+> objectWithThis.log();</code></pre>
