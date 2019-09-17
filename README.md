@@ -139,7 +139,7 @@ Still, modify and fumble everything, a web page not finish, but I think how to a
 ### 2R16Day 16 September 2019
 > Finally, finish a web page, but didn't add background simple music last, I try to write JS how to make it can scroll, I think it didn't work or have work? 🤔
 >
-> [music practice web page](http://127.0.0.1:5500/home.html)
+> [music practice web page](https://twitter.com/WenChiYu28/status/1173637870453587968)
 >
 > Practice a bit es6, like ”this” it is a global environment, Method in the object, if a function is put in the object, ”this” means the object itself.
 >
