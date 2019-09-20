@@ -150,3 +150,31 @@ Still, modify and fumble everything, a web page not finish, but I think how to a
 >   }
 > }
 > objectWithThis.log();</code></pre>
+
+===========================
+### 2R17Day 17 September 2019
+> I learn a little bit the git, unfamiliar and must habit it any command instruction:smile:
+>
+> Read the CSS book, know any property and value explain to understand.
+
+===========================
+### 2R18Day 18 September 2019
+> I look like I am a game to break go back from zero to start to practice basic CSS:sweat_smile::sweat_smile:, HTML already familiar. will continue to practice JavaScript.
+>
+> [Practice basic CSS](https://codepen.io/kyotofu28/pen/mdbzqzK)
+
+> <pre><code>const practice = { 
+> start: ’zero’, continue: ’Keep it up’, time: ’never not stop” 
+> };
+> for(let prop in practice) {
+>      if(!practice.hasOwnProperty(prop))  continue;
+> console.log(prop + ’:  ’ + practice[prop]);
+> }</code></pre>
+
+===========================
+### 2R19Day 19 September 2019
+> I read JavaScript and practice JavaScript, I see 
+[JavaScript](http://JavaScript.info) really easy and understand it.
+Read Git, about Taiwan book, introduced really clear that. [Git](https://gitbook.tw)
+>
+> Like this, “define the variable and assign the value”, “Variables name  ‘apple’ and ‘AppLE’ are two different variables”:point_right:but I am easy to make a mistake.:sweat_smile:
