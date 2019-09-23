@@ -178,3 +178,34 @@ Still, modify and fumble everything, a web page not finish, but I think how to a
 Read Git, about Taiwan book, introduced really clear that. [Git](https://gitbook.tw)
 >
 > Like this, “define the variable and assign the value”, “Variables name  ‘apple’ and ‘AppLE’ are two different variables”:point_right:but I am easy to make a mistake.:sweat_smile:
+
+===========================
+### 2R20Day 20 September 2019
+> Practice CSS in the codepen, think ”border” how to do?! 
+”border-width”, ” border-style”, ” border-color”, ”padding”, ”margin”
+>
+> [Practice CSS#2](https://codepen.io/kyotofu28/pen/NWKEOQw)
+
+===========================
+### 2R21Day 21 September 2019
+> I looking for a GitHub page on how to do it, I want to do a simple page, use vscode and Desktop GitHub push to Github when finished it a ready push but one mistake disappears all, the only display background-color and ”Hello World!” 
+>
+> ![Oh my god](https://media.giphy.com/media/3og0IKCgTAejgHnbFK/giphy.gif)
+
+===========================
+### 2R22Day 22 September 2019
+> No code TODAY!
+>
+> Clean home and read any CSS and Javascript book.:books:
+>
+> <pre><code>function getSentence({ subject, verb, object })  {
+>      return ’${subject}  ${verb}  ${object}’ ;
+>}
+>
+> const now = {
+>       subject:  ”I”, 
+>       verb:  ”go to”, 
+>       object:  ” sleep”,
+> };
+>
+> getSentence(now);</code></pre>
