@@ -209,3 +209,26 @@ Read Git, about Taiwan book, introduced really clear that. [Git](https://gitbook
 > };
 >
 > getSentence(now);</code></pre>
+
+============================
+### 2R23Day 23 September 2019
+> I finally finished my GitHub page, because I spend a lot of time search learning how to build a simple GitHub page. This is my simple web.:sweat_smile:
+>
+> [Deaf Dev Web](https://wen1984.github.io)
+>
+> Sure, I will slowly add my learn what anything later:smile:
+>
+> Why must learn C language??
+>> Javascript and C what have relationships??
+>
+>[How to learn JavaScript](https://dev.to/maciekchmura/how-to-learn-javascript-k7o)
+>
+> will continue to learn JavaScript tomorrow:simple_smile:
+
+=============================
+### 2R24Day 24 September 2019
+> Modify my GitHub page look comfortable, I watching YouTube [Buttons With Awesome Hover Effects Using Only HTML & CSS](https://www.youtube.com/watch?v=MLfAW55_4cY)
+> practice CSS button and practice JavaScript, but I think how to do small JavaScript objects??
+>
+> I have a small question, why my phone desktop displays the page left and right side look to space, not in the center:worried:I have a try to control it but only display computer.
+> [Twitter](https://twitter.com/WenChiYu28/status/1176534621212696576)
