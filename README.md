@@ -232,3 +232,21 @@ Read Git, about Taiwan book, introduced really clear that. [Git](https://gitbook
 >
 > I have a small question, why my phone desktop displays the page left and right side look to space, not in the center:worried:I have a try to control it but only display computer.
 > [Twitter](https://twitter.com/WenChiYu28/status/1176534621212696576)
+
+=============================
+### 2R25Day 25 September 2019
+> Watching YouTube practice CSS and Javascript.
+> Awesome is in the &lt;html&gt; inside add &lt;script&gt;, know-how let color change background different color.:star:
+> That is my want to learn CSS can use JavaScript how the operation.:wink:
+>
+> <pre><code>var sayName();
+> 
+> function sayName() {
+>      console.log('tomorrow night continue to learn more');
+> }</code></pre> 
+
+=============================
+### 2R25Day 26 September 2019
+> I watching Youtube [Text Typing Effects By Using JavaScript](https://www.youtube.com/watch?v=5lo_QdeWm_g&list=PL_t969ALyXzm1usYKFi7WNEYtrpi03-tu&index=5&t=0s) learn Text Typing Effect by using JavaScript, use &lt;script&gt; operation, But only learn a bit, I feel body the uncomfortable need rest, so I read JavaScript book.:blush:
+>
+> ![JavaScript & JQuery 網站互動設計程式進化之道](https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/074/47/0010744702.jpg&v=58a42dc7&w=348&h=348)
