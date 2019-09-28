@@ -250,3 +250,10 @@ Read Git, about Taiwan book, introduced really clear that. [Git](https://gitbook
 > I watching Youtube [Text Typing Effects By Using JavaScript](https://www.youtube.com/watch?v=5lo_QdeWm_g&list=PL_t969ALyXzm1usYKFi7WNEYtrpi03-tu&index=5&t=0s) learn Text Typing Effect by using JavaScript, use &lt;script&gt; operation, But only learn a bit, I feel body the uncomfortable need rest, so I read JavaScript book.:blush:
 >
 > ![JavaScript & JQuery 網站互動設計程式進化之道](https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/074/47/0010744702.jpg&v=58a42dc7&w=348&h=348)
+
+=============================
+### 2R26Day 27 September 2019
+> I practice the old web and watching YouTube [Amazing Product UI Card Using HTML CSS & JavaScript](https://www.youtube.com/watch?v=7WwN7HpREBE&list=PL_t969ALyXzm1usYKFi7WNEYtrpi03-tu&index=8) learn ”UI Card”, but have a bit confused about Font Awesome, where can download or copy URL?
+> Does JQuery URL need copy or download??
+>
+> [Practice UI Card](https://twitter.com/i/status/1177642372412260352)
