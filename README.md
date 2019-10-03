@@ -271,3 +271,19 @@ Read Git, about Taiwan book, introduced really clear that. [Git](https://gitbook
 > I accompany my framily go to watch movie and eat dinner.:smile:
 >
 > ![not today](https://media2.giphy.com/media/3o6fJ8y6TSJ5eITgA0/200.webp?cid=790b76113d4958c1b6783c170acbcdcac73d0b4bff0b8fe0&rid=200.webp)
+
+=============================
+### 2R30Day 30 September 2019
+> I watching [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc) practice flexbox.
+>
+> [JavaScript Pro Tips-Code This,Not That](https://www.youtube.com/watch?v=Mus_vwhTCq0&list=PL0vfts4VzfNjnCv7U_Y3QbJ6Y3z3b83Dx&index=6&t=545s)practice JavaScript ”Code This, Not That” know what is bad code and good code.:smile:
+>
+> ![My practice Javascript](https://pbs.twimg.com/media/EFuY41XUYAAkXNH?format=jpg&name=900x900)
+>
+> ![Console](https://pbs.twimg.com/media/EFuY41kU8AEKbwX?format=jpg&name=small)
+
+==============================
+### 2R31-32Day 1-2 October 2019
+> keep practice JavaScript and watching [Loops-Code This,Not That](https://www.youtube.com/watch?v=x7Xzvm0iLCI&list=PL0vfts4VzfNjnCv7U_Y3QbJ6Y3z3b83Dx&index=4&t=0s)practice ”loop” know can use ”map”, ”filter”, ”stored”, ”splice”, I finally know to use Emoji add in the vscode.:smile:
+> 
+>Repeat to learn again is important to me.:muscle:
