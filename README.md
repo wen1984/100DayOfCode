@@ -287,3 +287,19 @@ Read Git, about Taiwan book, introduced really clear that. [Git](https://gitbook
 > keep practice JavaScript and watching [Loops-Code This,Not That](https://www.youtube.com/watch?v=x7Xzvm0iLCI&list=PL0vfts4VzfNjnCv7U_Y3QbJ6Y3z3b83Dx&index=4&t=0s)practice ”loop” know can use ”map”, ”filter”, ”stored”, ”splice”, I finally know to use Emoji add in the vscode.:smile:
 > 
 >Repeat to learn again is important to me.:muscle:
+
+==============================
+### 2R33-34Day 3-4 October 2019
+> I watching [JavaScript: How It's Made](https://www.youtube.com/watch?v=FSs_JYwnAdI)
+>
+> Like this:
+> <pre><code>setTimeout(() => console.log('do this first?'), 0)</code></pre>
+>
+> It give me know for each round of the even loop.
+> <ol>
+  > <li>Run syne code.</li>
+  > <li>Run Promise or microtask callbacks.</li>
+  > <li>Run async task callbacks.</li>
+> </ol>
+>
+> ![pikachu](https://media2.giphy.com/media/Ez6mnh5iHrTEs/200.webp?cid=790b761155a17e99cee6e70acf775cc39223f836486ba372&rid=200.webp)
