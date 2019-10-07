@@ -303,3 +303,21 @@ Read Git, about Taiwan book, introduced really clear that. [Git](https://gitbook
 > </ol>
 >
 > ![pikachu](https://media2.giphy.com/media/Ez6mnh5iHrTEs/200.webp?cid=790b761155a17e99cee6e70acf775cc39223f836486ba372&rid=200.webp)
+
+==============================
+### 2R34-35Day 5-6 October 2019
+> Keep watching [Fireship-The JavaScript Survival Guide](https://www.youtube.com/watch?v=9emXNzqCKyg&list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI&index=4&t=147s)
+>
+> Like basic: Boolean, Null, Undefined, Number, Biglnt, String, Symbol.:smile:
+>
+> ![function argument](https://pbs.twimg.com/media/EGM40XiUEAAu29l?format=jpg&name=small)
+>
+> Read the LearningJavaScript book learn ”function call vs. refer”, ”Destructuring assignment”, ”Default parameters ”, ”function argument ”, ”this keyword”, ”function return value”.:books:
+>
+> ![Destructuring assignment](https://pbs.twimg.com/media/EGM41HqVAAEM1sY?format=jpg&name=small)
+>
+> But I have a small question, why I see a return value write example return words, isn't use the message write to console,
+> getGreeting(); it didn't work, only add <pre><code>console.log(getGreeting());</code></pre>really in the 
+> console display ”Hello World!”
+>
+> ![function return value](https://pbs.twimg.com/media/EGM41v1UUAE6Wdx?format=jpg&name=small)
