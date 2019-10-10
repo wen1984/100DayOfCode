@@ -335,3 +335,17 @@ practice JavaScript Arrays, an array is an object, it will check the input value
 > like this:
 > <pre><code>let selecteddynamic = [’Today’, ’Tomorrow ’, ’Everyday ’];
 > console.log(selecteddynamic);</code></pre>
+
+==============================
+### 2R38-39Day 9-10 October 2019
+> ![Happy Double Ten Day](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-siIDPW2fthFD3jM8ZppOJw4SEZ6S2kmmLVo-IBFvLCgnKN30g)
+> Happy Double Ten Day!!!:smile:
+> 
+> keep watching Codevolution practice Flexbox 15-17.
+>> Practice JavaScript 'Function','String','if else','Loops'.
+>
+> String gives me know have two way can write "String primitive" and "String object"
+> <pre><code>const message = 'This is my\n practice String primitive';</code></pre>
+> <pre><code>const another = new String('hi');</code></pre>
+>
+> I go back to SoloLearn Tutorial must finish all HTML and JavaScript, to learn Python3 to start too.:muscle:
