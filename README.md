@@ -321,3 +321,17 @@ Read Git, about Taiwan book, introduced really clear that. [Git](https://gitbook
 > console display ”Hello World!”
 >
 > ![function return value](https://pbs.twimg.com/media/EGM41v1UUAE6Wdx?format=jpg&name=small)
+
+===============================
+### 2R36-37Day 7-8 October 2019
+> Still watching Codevolution practice Flexbox tutorial 1-14 like Align items know it along the cross axis.:smile:
+>> I will continue to learn it to finish all the flexbox tutorials.
+>
+> ![flexbox](https://pbs.twimg.com/media/EGXW0v7UEAAylkZ?format=jpg&name=small)
+>
+> Same watching [JavaScript Arrays](https://www.youtube.com/watch?v=oigfaZ5ApsM&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=4&t=150s)
+practice JavaScript Arrays, an array is an object, it will check the input value is or not an Array.:eyes:
+>
+> like this:
+> <pre><code>let selecteddynamic = [’Today’, ’Tomorrow ’, ’Everyday ’];
+> console.log(selecteddynamic);</code></pre>
