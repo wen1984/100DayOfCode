@@ -305,7 +305,7 @@ Read Git, about Taiwan book, introduced really clear that. [Git](https://gitbook
 > ![pikachu](https://media2.giphy.com/media/Ez6mnh5iHrTEs/200.webp?cid=790b761155a17e99cee6e70acf775cc39223f836486ba372&rid=200.webp)
 
 ==============================
-### 2R34-35Day 5-6 October 2019
+### 2R35-36Day 5-6 October 2019
 > Keep watching [Fireship-The JavaScript Survival Guide](https://www.youtube.com/watch?v=9emXNzqCKyg&list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI&index=4&t=147s)
 >
 > Like basic: Boolean, Null, Undefined, Number, Biglnt, String, Symbol.:smile:
@@ -323,7 +323,7 @@ Read Git, about Taiwan book, introduced really clear that. [Git](https://gitbook
 > ![function return value](https://pbs.twimg.com/media/EGM41v1UUAE6Wdx?format=jpg&name=small)
 
 ===============================
-### 2R36-37Day 7-8 October 2019
+### 2R37-38Day 7-8 October 2019
 > Still watching Codevolution practice Flexbox tutorial 1-14 like Align items know it along the cross axis.:smile:
 >> I will continue to learn it to finish all the flexbox tutorials.
 >
@@ -337,7 +337,7 @@ practice JavaScript Arrays, an array is an object, it will check the input value
 > console.log(selecteddynamic);</code></pre>
 
 ==============================
-### 2R38-39Day 9-10 October 2019
+### 2R39-40Day 9-10 October 2019
 > ![Happy Double Ten Day](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-siIDPW2fthFD3jM8ZppOJw4SEZ6S2kmmLVo-IBFvLCgnKN30g)
 > Happy Double Ten Day!!!:smile:
 > 
