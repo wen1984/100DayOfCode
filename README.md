@@ -351,7 +351,7 @@ practice JavaScript Arrays, an array is an object, it will check the input value
 > I go back to SoloLearn Tutorial must finish all HTML and JavaScript, to learn Python3 to start too.:muscle:
 
 ==============================
-### 2R41-41Day 11-12 October 2019
+### 2R41-42Day 11-12 October 2019
 > I finally finis SoloLearn HTML Certificate, continue to practice Flexbox 18-22 and watching [JavaScript Factory Functions](https://www.youtube.com/watch?v=jpegXpQpb3o) and [JavaScript Constructor Functions](https://www.youtube.com/watch?v=23AOrSN-wmI) to practice,but I confused Factory Function and Constructor Functions, two functions what is different?:astonished:
 > like this: must add "this"?or every object add "this"?
 > 
