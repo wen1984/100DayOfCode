@@ -357,3 +357,37 @@ practice JavaScript Arrays, an array is an object, it will check the input value
 > 
 > ![SoloLearn HTML Certificate](https://pbs.twimg.com/media/EGsAB21U8AA13Ub?format=jpg&name=medium)
 > :blush::blush:
+
+==============================
+### 2R43-44Day 13-14 October 2019
+> I practice SoloLearn JavaScript in ES6 lessons.
+> Watching [Build A Calculator With JavaScript Tutorial](https://www.youtube.com/watch?v=j59qQ7YWLxw&t=1896s) know why it how to operation, but I do have small wrong is Because didn't look clear "this" write counter. So have modified it.:sweat_smile:
+>
+> Watching practice [JavaScript Getters and Setters](https://www.youtube.com/watch?v=bl98dm7vJt0&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=11&t=0s) and [JavaScript Value vs Reference Types](https://www.youtube.com/watch?v=fD0t_DKREbE&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=12&t=0s)
+>
+> I think get and set use fullName() and fullName(value) can reslut all firstName and lastName,fullName.
+> getters => access properties.
+> setters => change (mutate) them.
+> :wink::wink:
+>
+> Value have five basic: Number,String,Boolean,Symbol,undefined.
+> Reference Types have three basic: object,function,Array.
+>
+> #### Primitives are copied by their value:point_down:
+>> <pre><code>let number = 10;
+>> function increase(number) {
+>>      number++;
+>> }
+>> 
+>> increase(number);
+>> console.log(number);</code></pre>
+>
+> #### Objects are copied by their reference:point_down:
+>> <pre><code>let obj = { value: 11 };
+>>
+>> function increase(obj) {
+>>      obj.value++;
+>> }
+>>
+>> increase(obj);
+>> console.log(obj);</code></pre>
