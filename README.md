@@ -370,7 +370,7 @@ practice JavaScript Arrays, an array is an object, it will check the input value
 > setters => change (mutate) them.
 > :wink::wink:
 >
-> Value have five basic: Number,String,Boolean,Symbol,undefined.
+> Value has five basic: Number,String,Boolean,Symbol,undefined.
 > Reference Types have three basic: object,function,Array.
 >
 > #### Primitives are copied by their value:point_down:
