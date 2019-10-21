@@ -391,3 +391,20 @@ practice JavaScript Arrays, an array is an object, it will check the input value
 >>
 >> increase(obj);
 >> console.log(obj);</code></pre>
+
+================================
+### 2R45-46Day 15-16 October 2019
+> Finished JavaScript Certificate, next step to learn Python.
+> watching JavaScript Scope and let vs Var vs Contestant, this Local and Global give me know oh, it in the defined inside a function are not accessible from outside the function.
+>
+> ![SoloLearn JavaScript Certificate](https://pbs.twimg.com/media/EHAdgseUcAA5QF7?format=jpg&name=small)
+>
+> I looking for a great article that can understand how to write.
+> ”in JavaScript, objects and function are also variable.” w3school content says.
+> [JavaScript: Introduction to Scope(function scope,block scope)](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11)
+
+=================================
+### 2R47-48Day 17-18 October 2019
+> I am to start to learn Python lessons and watching practice JavaScript.:smile:
+>
+> ![Python](https://pbs.twimg.com/media/EHLGeDCUwAA_Gto?format=jpg&name=small)
