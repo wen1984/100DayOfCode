@@ -416,3 +416,12 @@ practice JavaScript Arrays, an array is an object, it will check the input value
 > Continue to learn Python:snake:lessons and watching practice JavaScript, finish half Clock Javascript.
 >
 > ![read book](https://media1.giphy.com/media/NFA61GS9qKZ68/200.webp?cid=790b761183912fe046814d0b878859b0e88be77cba76325c&rid=200.webp)
+
+=================================
+### 2R53-54Day 23-24 October 2019
+> Continue to learn Python:snake:it looks easy to learn.:smile:
+>
+> Finished Javascript Clock, but have a question, why hand didn't display, I try to check 1-2 times, still not find.
+> watching API teach, tomorrow will practice API how to operate.
+>
+> [clock](https://twitter.com/i/status/1187385570827194374)
