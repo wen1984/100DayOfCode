@@ -425,3 +425,11 @@ practice JavaScript Arrays, an array is an object, it will check the input value
 > watching API teach, tomorrow will practice API how to operate.
 >
 > [clock](https://twitter.com/i/status/1187385570827194374)
+
+=================================
+### 2R55-59Day 25-29 October 2019
+> Learn Python:snake:and read every book:books:,sometimes want to relax or daze, go back to practice the same clock, why var session =”AM” and session =”PM” can't display?! Like this:11:32:49 PM
+>
+> ![clock](https://pbs.twimg.com/media/EIDms4kVAAAANMk?format=jpg&name=small)
+>
+> ![seeion](https://pbs.twimg.com/media/EIDms4lUcAUC2Go?format=jpg&name=360x360)
