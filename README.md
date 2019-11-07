@@ -433,3 +433,15 @@ practice JavaScript Arrays, an array is an object, it will check the input value
 > ![clock](https://pbs.twimg.com/media/EIDms4kVAAAANMk?format=jpg&name=small)
 >
 > ![seeion](https://pbs.twimg.com/media/EIDms4lUcAUC2Go?format=jpg&name=360x360)
+
+=================================
+### 2R60-61Day 30-31 October 2019
+### 2R61-68Day 1-7 November 2019
+> Read any the codebook,keep to learn the code.
+>
+> Because 9 days good enough rest time, so I continue to learn , can't give up.
+>> No one is willing to lay off staff,continue to look for new a job.
+> 
+> I finally modify my page,the look can give anyone easy to read any word.
+>
+> [Deaf Dev](https://wen1984.github.io/)
